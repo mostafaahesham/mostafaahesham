@@ -24,7 +24,7 @@ I am Eager to learn, i enjoy overcoming challenges and i have a genuine interest
 -	Worked with a Dentist in Developing a Custom Photogrammetry Device, that can adapt to any External DSLR Camera Wirelessly, to automate the process of Dental Photogrammetry to construct 3D Models for Crowns & Casts featuring a 2Degrees of Freedom Platform & a Custom User Interface for Device configuration and image Acquisition.
 
 ### ECommerce
--	d and managed a team of developers in the development of an online ecommerce application, encompassing a user-end mobile application, [**Merchant**](https://linktr.ee/merchantapp)
+-	Led and managed a team of developers in the development of an online ecommerce application, encompassing a user-end mobile application, [**Merchant**](https://linktr.ee/merchantapp)
 -	[**Merchant**](https://linktr.ee/merchantapp) is a mobile application that provides users with access to all your local clothing stores in one place.This app is designed to make shopping for clothing more convenient and hassle-free, as it offers fast and reliable delivery services.
 
 ------------
