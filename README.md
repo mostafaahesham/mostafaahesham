@@ -27,6 +27,10 @@ I am Eager to learn, i enjoy overcoming challenges and i have a genuine interest
 -	Led and managed a team of developers in the development of an online ecommerce application, encompassing a user-end mobile application, [**Merchant**](https://linktr.ee/merchantapp)
 -	[**Merchant**](https://linktr.ee/merchantapp) is a mobile application that provides users with access to all your local clothing stores in one place.This app is designed to make shopping for clothing more convenient and hassle-free, as it offers fast and reliable delivery services.
 
+### Robotics
+-	Designed the software architecture for a pneumatically driven biped robot ([Kinoped](https://www.kinoped.com/)), providing a robust foundation for control strategies and system behavior.
+-	Successfully reduced costs by an impressive 80% by replacing the existing PLC control solution with a more cost-effective embedded controller solution, without compromising functionality or performance.
+
 ------------
 ## Stats
 <a href="https://github.com/anuraghazra/convoychat">
