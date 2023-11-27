@@ -1,5 +1,5 @@
 # Mostafa Hesham 
-## :tw-1f64c: About Me
+## About Me
 
 Hello! I am  Mostafa Hesham, a passionate software engineer with over 5 Years of Market Experience in the Field embarking on an exciting journey to strengthen my Software development skills and explore the vast world of cloud computing.
 
@@ -8,7 +8,7 @@ I am Eager to learn, i enjoy overcoming challenges and i have a genuine interest
 ![](https://komarev.com/ghpvc/?username=mostafaahesham)
 
 ------------
-## :tw-1f527: Tech Stack
+## Tech Stack
 ### Tools
 <img src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width ="40" /> <img src = "https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" width ="40" /> <img src = "https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width ="40" />
 ### Programming Languages
@@ -19,7 +19,7 @@ I am Eager to learn, i enjoy overcoming challenges and i have a genuine interest
 <img src = "https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width ="40" /> <img src = "	https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width ="40" /> <img src = "https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width ="40" /> 
 
 ------------
-## :tw-1f4c8: Achievements
+## Achievements
 ### Dental Photogrammetry
 -	Worked with a Dentist in Developing a Custom Photogrammetry Device, that can adapt to any External DSLR Camera Wirelessly, to automate the process of Dental Photogrammetry to construct 3D Models for Crowns & Casts featuring a 2Degrees of Freedom Platform & a Custom User Interface for Device configuration and image Acquisition.
 
@@ -28,7 +28,7 @@ I am Eager to learn, i enjoy overcoming challenges and i have a genuine interest
 -	[**Merchant**](https://linktr.ee/merchantapp) is a mobile application that provides users with access to all your local clothing stores in one place.This app is designed to make shopping for clothing more convenient and hassle-free, as it offers fast and reliable delivery services.
 
 ------------
-##:tw-1f4ca: Stats
+## Stats
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaahesham&layout=compact&langs_count=8&card_width=320" />
 </a>
